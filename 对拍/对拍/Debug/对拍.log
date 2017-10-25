@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\2017autumn\dsa\pa\对拍\对拍\源.cpp(10): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  对拍.vcxproj -> D:\2017autumn\DSA\PA\对拍\Debug\对拍.exe
+  对拍.vcxproj -> D:\2017autumn\DSA\PA\对拍\Debug\对拍.pdb (Partial PDB)

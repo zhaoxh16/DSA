@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\2017autumn\dsa\pa\a+b_problem\a+b_problem\源.cpp(24): warning C4244: “=”: 从“__int64”转换到“char”，可能丢失数据
+  A+B_Problem.vcxproj -> D:\2017autumn\DSA\PA\A+B_Problem\Debug\A+B_Problem.exe
+  A+B_Problem.vcxproj -> D:\2017autumn\DSA\PA\A+B_Problem\Debug\A+B_Problem.pdb (Partial PDB)
